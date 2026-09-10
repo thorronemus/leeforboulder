@@ -9,3 +9,5 @@ Changes in V2:
 
 Planned domain: leeforboulder.com, subject to availability when registered.
 Hosting: static and compatible with free Cloudflare Pages or GitHub Pages.
+
+- V2.1 converts candidate-facing copy from third person to first person.
