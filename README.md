@@ -1,13 +1,12 @@
-# Lee for Boulder - Website V2
+# Lee4Boulder Website V3
 
-Changes in V2:
-- Positive hero: "Better Roads. Better Decisions."
-- Lee's plan moved directly below the hero.
-- "No Confidence" is retained, but moved into the explanation of why Lee is running.
-- Full analysis is hosted directly inside the website as `assets/lee-gilbert-full-analysis.pdf`.
-- Primary CTAs stay on the website.
+Updates:
+- Candidate photo added.
+- Lee's 9/14 website markup implemented.
+- Revised 28-page analysis hosted on-site.
+- Volunteer section and printable flyer added.
+- About dropdown includes campaign approval and website credit.
+- Footer includes campaign approval and website credit.
+- Legal paid-for placeholder remains pending exact committee language.
 
-Planned domain: leeforboulder.com, subject to availability when registered.
-Hosting: static and compatible with free Cloudflare Pages or GitHub Pages.
-
-- V2.1 converts candidate-facing copy from third person to first person.
+Public domain: https://lee4boulder.com
